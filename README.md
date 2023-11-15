@@ -6,7 +6,7 @@ This project is to enhance the accessibility of the Horiseon website. The primar
 This project contains HTML that was updated from 'div' elements to semantic HTML. Additionally the CSS has been updated to target the correct elements. Lastly, the classes in the CSS has been consilidate to target multiple selctors.
 
 ## Business Advantages
-Beyond the ethical imperative, fostering a more accessible website provides distinct advantages for businesses:
+Beyond the ethical imperative, fostering a more accessible website provides distinct advantages for businesses: -
 
 1. Enhanced Search Engine Optimisation:
 Elevate the digital footprint of Horiseon through heightened Search Engine Optimisation, increasing online visibility and reach.
